@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Supermercado Ejemplo</title>
+    <title>Supermercado Caami</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -104,52 +104,84 @@
     <h2 id="productos">Productos Disponibles</h2>
     <div class="productos">
         <div class="producto">
-            <h3>Leche</h3>
-            <p>Precio: $1,290</p>
+            <h3>Leche (1 litro)</h3>
+            <p>Precio: $1,200 CLP</p>
         </div>
         <div class="producto">
-            <h3>Pan de molde</h3>
-            <p>Precio: $2,190</p>
+            <h3>Pan de molde (500g)</h3>
+            <p>Precio: $1,600 CLP</p>
         </div>
         <div class="producto">
-            <h3>Huevos</h3>
-            <p>Precio: $3,200</p>
+            <h3>Huevos (12 unidades)</h3>
+            <p>Precio: $3,500 CLP</p>
         </div>
         <div class="producto">
-            <h3>Arroz</h3>
-            <p>Precio: $1,290</p>
+            <h3>Carne molida (500g)</h3>
+            <p>Precio: $5,200 CLP</p>
         </div>
         <div class="producto">
-            <h3>Pollo fresco</h3>
-            <p>Precio: $3,490</p>
+            <h3>Arroz (1 kg)</h3>
+            <p>Precio: $1,300 CLP</p>
         </div>
         <div class="producto">
-            <h3>Carne molida</h3>
-            <p>Precio: $6,990</p>
+            <h3>Manzanas (1 kg)</h3>
+            <p>Precio: $1,000 CLP</p>
         </div>
         <div class="producto">
-            <h3>Manzanas</h3>
-            <p>Precio: $1,290</p>
+            <h3>Pollo entero (1 kg)</h3>
+            <p>Precio: $4,300 CLP</p>
         </div>
         <div class="producto">
-            <h3>Plátanos</h3>
-            <p>Precio: $1,090</p>
+            <h3>Azúcar (1 kg)</h3>
+            <p>Precio: $1,400 CLP</p>
         </div>
         <div class="producto">
-            <h3>Aceite vegetal</h3>
-            <p>Precio: $2,590</p>
+            <h3>Queso laminado (250g)</h3>
+            <p>Precio: $2,500 CLP</p>
         </div>
         <div class="producto">
-            <h3>Coca-Cola</h3>
-            <p>Precio: $1,690</p>
+            <h3>Jugo natural (1 litro)</h3>
+            <p>Precio: $1,900 CLP</p>
         </div>
         <div class="producto">
-            <h3>Cerveza Austral</h3>
-            <p>Precio: $1,690</p>
+            <h3>Aceite vegetal (1 litro)</h3>
+            <p>Precio: $2,400 CLP</p>
         </div>
         <div class="producto">
-            <h3>Detergente Omo</h3>
-            <p>Precio: $8,990</p>
+            <h3>Pasta (500g)</h3>
+            <p>Precio: $1,000 CLP</p>
+        </div>
+        <div class="producto">
+            <h3>Café instantáneo (170g)</h3>
+            <p>Precio: $4,200 CLP</p>
+        </div>
+        <div class="producto">
+            <h3>Yogur (1 litro)</h3>
+            <p>Precio: $1,900 CLP</p>
+        </div>
+        <div class="producto">
+            <h3>Detergente en polvo (3 kg)</h3>
+            <p>Precio: $5,800 CLP</p>
+        </div>
+        <div class="producto">
+            <h3>Mantequilla (250g)</h3>
+            <p>Precio: $2,300 CLP</p>
+        </div>
+        <div class="producto">
+            <h3>Papel higiénico (pack de 12 unidades)</h3>
+            <p>Precio: $4,500 CLP</p>
+        </div>
+        <div class="producto">
+            <h3>Cereal (400g)</h3>
+            <p>Precio: $2,200 CLP</p>
+        </div>
+        <div class="producto">
+            <h3>Atún en lata (170g)</h3>
+            <p>Precio: $1,500 CLP</p>
+        </div>
+        <div class="producto">
+            <h3>Galletas (250g)</h3>
+            <p>Precio: $1,200 CLP</p>
         </div>
     </div>
 
@@ -165,12 +197,12 @@
 
     <div class="informacion" id="informacion">
         <h2>Acerca de nosotros</h2>
-        <p>Somos un supermercado comprometido con la calidad, la satisfacción del cliente y la sostenibilidad. Ofrecemos productos frescos y locales para satisfacer todas tus necesidades.</p>
+        <p>En Supermercado Caami, estamos comprometidos a ofrecer productos de alta calidad a precios accesibles, con un servicio al cliente excepcional y una gran variedad de productos para todas tus necesidades diarias.</p>
     </div>
 </main>
 
 <footer>
-    <p>&copy; 2024 Supermercado Caami. Todos los derechos reservados.</p>
+    <p>Supermercado Caami &copy; 2024</p>
 </footer>
 
 </body>
