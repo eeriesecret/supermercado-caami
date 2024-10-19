@@ -91,7 +91,7 @@
 <body>
 
 <header>
-    <h1>Supermercado Ejemplo</h1>
+    <h1>Supermercado Caami</h1>
     <nav>
         <a href="#productos">Productos</a>
         <a href="#contacto">Contacto</a>
@@ -170,7 +170,7 @@
 </main>
 
 <footer>
-    <p>&copy; 2024 Supermercado Ejemplo. Todos los derechos reservados.</p>
+    <p>&copy; 2024 Supermercado Caami. Todos los derechos reservados.</p>
 </footer>
 
 </body>
