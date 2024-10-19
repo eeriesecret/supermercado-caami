@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Supermercado Caami</title>
+    <title>Supermercado Ejemplo</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -91,7 +91,7 @@
 <body>
 
 <header>
-    <h1>Supermercado Caami</h1>
+    <h1>Supermercado Ejemplo</h1>
     <nav>
         <a href="#productos">Productos</a>
         <a href="#contacto">Contacto</a>
@@ -104,19 +104,52 @@
     <h2 id="productos">Productos Disponibles</h2>
     <div class="productos">
         <div class="producto">
-            <img src="leche.jpg" alt="Leche" style="width:100%; height:auto;">
             <h3>Leche</h3>
-            <p>Precio: $1.00</p>
+            <p>Precio: $1,290</p>
         </div>
         <div class="producto">
-            <img src="pan.jpg" alt="Pan" style="width:100%; height:auto;">
-            <h3>Pan</h3>
-            <p>Precio: $0.50</p>
+            <h3>Pan de molde</h3>
+            <p>Precio: $2,190</p>
         </div>
         <div class="producto">
-            <img src="huevos.jpg" alt="Huevos" style="width:100%; height:auto;">
             <h3>Huevos</h3>
-            <p>Precio: $2.00</p>
+            <p>Precio: $3,200</p>
+        </div>
+        <div class="producto">
+            <h3>Arroz</h3>
+            <p>Precio: $1,290</p>
+        </div>
+        <div class="producto">
+            <h3>Pollo fresco</h3>
+            <p>Precio: $3,490</p>
+        </div>
+        <div class="producto">
+            <h3>Carne molida</h3>
+            <p>Precio: $6,990</p>
+        </div>
+        <div class="producto">
+            <h3>Manzanas</h3>
+            <p>Precio: $1,290</p>
+        </div>
+        <div class="producto">
+            <h3>Plátanos</h3>
+            <p>Precio: $1,090</p>
+        </div>
+        <div class="producto">
+            <h3>Aceite vegetal</h3>
+            <p>Precio: $2,590</p>
+        </div>
+        <div class="producto">
+            <h3>Coca-Cola</h3>
+            <p>Precio: $1,690</p>
+        </div>
+        <div class="producto">
+            <h3>Cerveza Austral</h3>
+            <p>Precio: $1,690</p>
+        </div>
+        <div class="producto">
+            <h3>Detergente Omo</h3>
+            <p>Precio: $8,990</p>
         </div>
     </div>
 
@@ -132,9 +165,13 @@
 
     <div class="informacion" id="informacion">
         <h2>Acerca de nosotros</h2>
-       <p>  
-        <h4> Nuestra mision es brindar productos de calidad a precios accesibles, mejorando la calidad de vida de nuestras comunidades. Nos esforzamos por ofrecer un servicio excepcional, garantizando una experiencia de compra cómoda, rápida y satisfactoria, mientras promovemos prácticas sostenibles y el desarrollo de nuestros empleados.</h4>
-       <h4> Nuestra vision es ser el supermercado líder en la región, reconocido por nuestra innovación, responsabilidad social y compromiso con la satisfacción del cliente. Queremos ser el lugar preferido para hacer las compras diarias, ofreciendo productos frescos, saludables y una experiencia de compra personalizada.</h4>
-    <h4>Nuestros valores son fundamentales para todo lo que hacemos: nos comprometemos a ofrecer productos de alta calidad, frescos y de marcas reconocidas, priorizando siempre la satisfacción del cliente al superar sus expectativas. Innovamos constantemente en nuestros procesos y servicios para brindar una experiencia moderna y eficiente, mientras promovemos prácticas sostenibles, apoyando productos locales y reduciendo nuestro impacto ambiental. Valoramos a nuestros empleados, fomentando un ambiente de trabajo colaborativo, y actuamos con transparencia e integridad en todas nuestras operaciones.</h4>
-    <h4>Nuestros objetivos se centran en mejorar la atención al cliente, reduciendo los tiempos de espera y optimizando la experiencia de compra. Planeamos incrementar en un 20% la oferta de productos locales el próximo año, y reducir en un 30% el uso de plásticos de un solo uso, promoviendo el reciclaje. También implementaremos nuevas tecnologías para hacer más eficiente la gestión de inventarios y el servicio en caja, mientras buscamos abrir al menos dos nuevas sucursales en áreas estratégicas en los próximos dos años.</h4>
-</p>&copy; 2024 Supermercado Caami.
+        <p>Somos un supermercado comprometido con la calidad, la satisfacción del cliente y la sostenibilidad. Ofrecemos productos frescos y locales para satisfacer todas tus necesidades.</p>
+    </div>
+</main>
+
+<footer>
+    <p>&copy; 2024 Supermercado Ejemplo. Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
